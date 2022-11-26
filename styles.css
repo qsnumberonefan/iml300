@@ -1,4 +1,7 @@
 html {
+background-color: #0C1425;
+color: white;
+font-family: "Lucida Console", "Courier New", monospace;
   cursor: url('cursor.png'), auto;	
 }
 .button {
